@@ -63,6 +63,15 @@ Introduzir ao versionamento de código com Git e GitHub.
         </a>
       </td>    
     </tr>
+    <tr>
+      <td>05</td>
+      <td>Informações sobre Python</td>
+      <td align="center">
+        <a href="https://github.com/LAB-LAPSI-UFCG/dio-curso-git-github/blob/main/materiais-de-apoio/05-Python.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
